@@ -1,0 +1,14 @@
+body {
+  scroll-behavior: smooth;
+  padding-top: 70px;
+}
+
+header {
+  background: url('../img/banner.jpg') center/cover no-repeat;
+  height: 400px;
+  color: white;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
