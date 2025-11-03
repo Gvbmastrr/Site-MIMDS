@@ -1,2 +1,2 @@
 # Site-MIMDS
-Site pour le MIMDS
+Utilise un peu de php alors je me sers de Xampp
